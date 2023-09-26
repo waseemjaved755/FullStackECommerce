@@ -1,0 +1,14 @@
+{
+    "db": {
+      "host": "localhost",
+      "port": 5432,
+      "username": "postgres",
+      "password": "azxmnb12a9",
+      "database": "fullStackECommerce",
+      "logging": false,
+      "dialect": "postgres"
+    },
+    "jwtSecret": {
+      "secret": "b9bb0972511d254f6e271d9e81b95f67cd9738b6d7310206035ff8debddeac186cf41393a35ee947ed5f8d0b81de05d703e08e98d2df42e3e5d9f7b26d227f3d"
+    }
+  }
